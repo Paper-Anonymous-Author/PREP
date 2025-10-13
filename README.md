@@ -19,7 +19,7 @@ We take dataset "douban" for an example, for Amazon Baby and Amazon Beauty datas
 ```
 Please preprocess the dataset for *PREP* with
 ```
-python ./transfer.py
+python ./run_model.py --dataset="douban" --task="dataset"
 ```
 ### Model Training
 First initialize *PREP* with 
