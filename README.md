@@ -13,6 +13,10 @@ We leverage the _Douban Movies_, _Amazon Baby_, and _Amazon Beauty_.
 
 ## Train *PREP*
 ### Dataset Preprocessing
+We take dataset "douban" for an example, for Amazon Baby and Amazon Beauty dataset, please set
+```
+--dataset="Baby"    --dataset="Beauty"
+```
 Please preprocess the dataset for *PREP* with
 ```
 python ./transfer.py
