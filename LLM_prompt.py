@@ -7,7 +7,7 @@ import openai
 import torch
 
 # os.environ['HF_ENDPOINT'] = 'https://hf-mirror.com'
-os.environ["HUGGINGFACE_HUB_TOKEN"] = "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"
+os.environ["HUGGINGFACE_HUB_TOKEN"] = ""
 
 import pandas as pd
 import numpy as np
