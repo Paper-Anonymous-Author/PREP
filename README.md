@@ -1,6 +1,6 @@
 # PREP
 
-This is the implementation for our AAAI2025 paper:
+This is the implementation for our paper:
 > Ranking Tomorrow’s Hits: Recommendation via LLM Popularity Forecasts with Learned Prompt Generation
 
 ## Environment
